@@ -1,0 +1,198 @@
+.page-header {
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    background-color: none;
+    border: 0px;
+    position: sticky;
+    top: 20px;
+    left: 20px;
+    background-color: none;
+    opacity: 1.0;
+}
+
+.page-navigation__items {
+  list-style-type: none;
+}
+
+.content-section__header_screen-reader-only {
+  opacity: 0.0;
+}
+
+#home {
+  box-sizing: border-box;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: grey;
+  opacity: 1.0;
+  list-style-type: none;
+  }
+
+  .band-members {
+    list-style-type: none;
+    position: center;
+  }
+
+  .band-members__item {
+    float:right;
+    width: 150px;
+    height: 150px;
+    margin: 30px;
+    padding: 30px;
+  }
+
+  .band-members__image {
+    height: 200px;
+    width: 200px;
+  }
+
+
+
+
+.content-section about-section {
+  position:right;
+  width:100px;
+  height:100px;
+
+}
+
+
+ #about {
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: purple;
+  opacity: 1.0;
+ } 
+
+ .content-section__header {
+   float: right;
+   margin: 40px;
+
+ }
+
+ .band01_image {
+    float: right; 
+    height: 500px;
+    width: 900px;
+   margin: 20px;
+   padding: 20px;
+
+ }
+
+ .about-section__desc {
+  float: left;
+ }
+
+ .about-section__desc-header {
+  width: 800px; 
+  position: right;
+  right: 200px;
+ }
+
+ #concerts {
+  box-sizing: border-box;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: green;
+  opacity: 1.0;
+  
+ } 
+
+ .content-section__header {
+
+  float: right;
+  margin-bottom: 20px;
+  margin-left: 20px;
+ }
+
+ .concerts__item {
+  box-sizing: border-box;
+  border: 10px;
+  background-color: aqua; 
+  width: 30%;
+   height: 30%;
+   margin: 50px;
+   padding: 20px;
+   float: right;
+ }
+
+ .button {
+   float: right;
+ }
+
+ .concerts__date {
+  width: 100px;
+  height: 20px; 
+  margin-bottom: 30px;
+  float: left;
+  
+ }
+
+ .concerts__location {
+  width: 100px;
+  height: 20px; 
+  margin-bottom: 30px;
+  float: left;
+}
+
+ .concerts__image {
+   width: 100%;
+   height: 100%;
+  
+ }
+
+ #video {
+  box-sizing: border-box;
+  min-width: 100vh;
+  min-height: 100vh;
+  clear: both;
+  background-color: blue;
+  opacity: 1.0;
+ }
+
+#photos {
+  box-sizing: border-box;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: red;
+  opacity: 1.0;
+}
+
+#contact {
+  box-sizing: border-box;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: yellow;
+  opacity: 1.0;
+}
+
+
+.social-links__item {
+  position: -webkit-sticky;
+  position: sticky;
+  position: top;
+  background-color: red;
+  border: 0px;
+  top: 20px;
+  left: 20px;
+  background-color: none;
+  opacity: 1.0;
+  list-style-type: none;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
